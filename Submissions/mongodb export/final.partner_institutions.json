@@ -1,0 +1,40 @@
+[{
+  "_id": 1,
+  "name": "Great Lakes Planetarium"
+},
+{
+  "_id": 2,
+  "name": "Midwest Space Science Institute"
+},
+{
+  "_id": 3,
+  "name": "Northern Sky University"
+},
+{
+  "_id": 4,
+  "name": "Lakeview Community College"
+},
+{
+  "_id": 5,
+  "name": "Saginaw Valley STEM Center"
+},
+{
+  "_id": 6,
+  "name": "Michigan Astronomical Society"
+},
+{
+  "_id": 7,
+  "name": "Bay City Science Museum"
+},
+{
+  "_id": 8,
+  "name": "Huron Regional Observatory"
+},
+{
+  "_id": 9,
+  "name": "Central Research Laboratory"
+},
+{
+  "_id": 10,
+  "name": "National Amateur Astronomy Network"
+}]

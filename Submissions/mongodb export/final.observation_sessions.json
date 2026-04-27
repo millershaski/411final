@@ -1,0 +1,160 @@
+[{
+  "_id": 1,
+  "target_id": 1,
+  "performed_by": 2,
+  "start_date": "2025-04-01T20:30:00Z",
+  "end_date": "2025-04-01T22:30:00Z",
+  "notes": "Good seeing conditions for planetary imaging.",
+  "observation_data": [
+    {
+      "data_id": 1,
+      "data_type": "Image",
+      "file_path": "/data/observations/session1/mars_stack.png",
+      "description": "Stacked RGB image of Mars."
+    }
+  ]
+},
+{
+  "_id": 2,
+  "target_id": 2,
+  "performed_by": 5,
+  "start_date": "2024-04-02T21:00:00Z",
+  "end_date": "2024-04-02T23:00:00Z",
+  "notes": "Brightness measurements recorded every 10 minutes.",
+  "observation_data": [
+    {
+      "data_id": 2,
+      "data_type": "Measurement",
+      "file_path": "/data/observations/session2/betelgeuse_lightcurve.csv",
+      "description": "Brightness readings captured during the session."
+    }
+  ]
+},
+{
+  "_id": 3,
+  "target_id": 3,
+  "performed_by": 4,
+  "start_date": "2025-04-03T20:00:00Z",
+  "end_date": "2025-04-03T23:30:00Z",
+  "notes": "Deep sky imaging session with long exposures.",
+  "observation_data": [
+    {
+      "data_id": 3,
+      "data_type": "Image",
+      "file_path": "/data/observations/session3/andromeda_master.fit",
+      "description": "Processed deep sky master frame."
+    }
+  ]
+},
+{
+  "_id": 4,
+  "target_id": 4,
+  "performed_by": 3,
+  "start_date": "2024-04-04T19:45:00Z",
+  "end_date": "2024-04-04T22:15:00Z",
+  "notes": "Spectral capture completed for central region.",
+  "observation_data": [
+    {
+      "data_id": 4,
+      "data_type": "Spectrum",
+      "file_path": "/data/observations/session4/orion_spectrum.fits",
+      "description": "Spectral file for Orion Nebula core."
+    }
+  ]
+},
+{
+  "_id": 5,
+  "target_id": 5,
+  "performed_by": 9,
+  "start_date": "2024-04-05T20:15:00Z",
+  "end_date": "2024-04-05T22:45:00Z",
+  "notes": "Comet tail appeared broader than prior session.",
+  "observation_data": [
+    {
+      "data_id": 5,
+      "data_type": "Analysis",
+      "file_path": "/data/observations/session5/comet_tail_notes.pdf",
+      "description": "Summary of visible tail changes compared with previous night."
+    }
+  ]
+},
+{
+  "_id": 6,
+  "target_id": 6,
+  "performed_by": 1,
+  "start_date": "2022-04-06T18:30:00Z",
+  "end_date": "2022-04-06T20:00:00Z",
+  "notes": "Lunar terminator images taken for comparison.",
+  "observation_data": [
+    {
+      "data_id": 6,
+      "data_type": "Image",
+      "file_path": "/data/observations/session6/lunar_terminator.jpg",
+      "description": "High-contrast lunar surface image."
+    }
+  ]
+},
+{
+  "_id": 7,
+  "target_id": 7,
+  "performed_by": 6,
+  "start_date": "2024-04-07T21:00:00Z",
+  "end_date": "2024-04-07T23:30:00Z",
+  "notes": "Observed Jovian cloud bands and moon positions.",
+  "observation_data": [
+    {
+      "data_id": 7,
+      "data_type": "Reading",
+      "file_path": "/data/observations/session7/jupiter_moons.txt",
+      "description": "Logged moon positions during observation."
+    }
+  ]
+},
+{
+  "_id": 8,
+  "target_id": 8,
+  "performed_by": 5,
+  "start_date": "2020-04-08T20:30:00Z",
+  "end_date": "2020-04-08T22:30:00Z",
+  "notes": "Photometry test run with student team.",
+  "observation_data": [
+    {
+      "data_id": 8,
+      "data_type": "Measurement",
+      "file_path": "/data/observations/session8/pleiades_photometry.csv",
+      "description": "Photometry values for selected stars."
+    }
+  ]
+},
+{
+  "_id": 9,
+  "target_id": 9,
+  "performed_by": 8,
+  "start_date": "2024-04-09T19:30:00Z",
+  "end_date": "2024-04-09T21:00:00Z",
+  "notes": "Asteroid positions logged against reference stars.",
+  "observation_data": [
+    {
+      "data_id": 9,
+      "data_type": "Reading",
+      "file_path": "/data/observations/session9/vesta_positions.csv",
+      "description": "Timestamped positional measurements."
+    }
+  ]
+},
+{
+  "_id": 10,
+  "target_id": 10,
+  "performed_by": 10,
+  "start_date": "2024-04-10T20:00:00Z",
+  "end_date": "2024-04-10T22:00:00Z",
+  "notes": "Images taken for outreach presentation materials.",
+  "observation_data": [
+    {
+      "data_id": 10,
+      "data_type": "Image",
+      "file_path": "/data/observations/session10/double_cluster.png",
+      "description": "Final outreach image prepared from the session."
+    }
+  ]
+}]

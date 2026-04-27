@@ -1,0 +1,50 @@
+[{
+  "_id": 1,
+  "name": "Director",
+  "description": "Oversees the overall astronomy program and operations."
+},
+{
+  "_id": 2,
+  "name": "Lead Researcher",
+  "description": "Leads scientific research projects and mentors team members."
+},
+{
+  "_id": 3,
+  "name": "Telescope Operator",
+  "description": "Operates and configures telescopes for scheduled observations."
+},
+{
+  "_id": 4,
+  "name": "Data Analyst",
+  "description": "Processes captured measurements, spectra, and image data."
+},
+{
+  "_id": 5,
+  "name": "Equipment Technician",
+  "description": "Maintains observatory equipment and performs calibrations."
+},
+{
+  "_id": 6,
+  "name": "Event Coordinator",
+  "description": "Plans and manages public workshops and outreach events."
+},
+{
+  "_id": 7,
+  "name": "Student Researcher",
+  "description": "Supports research projects while learning astronomy methods."
+},
+{
+  "_id": 8,
+  "name": "Volunteer",
+  "description": "Assists with events, logistics, and general support tasks."
+},
+{
+  "_id": 9,
+  "name": "Publication Editor",
+  "description": "Prepares reports and research papers for publication."
+},
+{
+  "_id": 10,
+  "name": "Collaboration Liaison",
+  "description": "Coordinates with partner institutions and shared initiatives."
+}]

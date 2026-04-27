@@ -1,0 +1,109 @@
+[{
+  "_id": 1,
+  "title": "Spring Stargazing Night",
+  "type": "Public Viewing",
+  "date": "2024-04-12T20:00:00Z",
+  "participants": [
+    {
+      "person_id": 7
+    }
+  ]
+},
+{
+  "_id": 2,
+  "title": "Intro to Telescope Operation",
+  "type": "Workshop",
+  "date": "2024-04-19T14:00:00Z",
+  "participants": [
+    {
+      "person_id": 10
+    }
+  ]
+},
+{
+  "_id": 3,
+  "title": "Nebulae and Star Formation Seminar",
+  "type": "Seminar",
+  "date": "2024-04-26T18:00:00Z",
+  "participants": [
+    {
+      "person_id": 1
+    }
+  ]
+},
+{
+  "_id": 4,
+  "title": "Youth Astronomy Camp Day 1",
+  "type": "Camp",
+  "date": "2024-06-10T09:00:00Z",
+  "participants": []
+},
+{
+  "_id": 5,
+  "title": "Youth Astronomy Camp Day 2",
+  "type": "Camp",
+  "date": "2024-06-11T09:00:00Z",
+  "participants": [
+    {
+      "person_id": 5
+    },
+    {
+      "person_id": 6
+    }
+  ]
+},
+{
+  "_id": 6,
+  "title": "Meteor Shower Watch Party",
+  "type": "Public Viewing",
+  "date": "2024-08-11T22:00:00Z",
+  "participants": [
+    {
+      "person_id": 2
+    }
+  ]
+},
+{
+  "_id": 7,
+  "title": "Astrophotography Basics",
+  "type": "Workshop",
+  "date": "2024-05-03T17:30:00Z",
+  "participants": [
+    {
+      "person_id": 3
+    }
+  ]
+},
+{
+  "_id": 8,
+  "title": "Planetary Science Public Talk",
+  "type": "Seminar",
+  "date": "2024-05-17T19:00:00Z",
+  "participants": [
+    {
+      "person_id": 4
+    }
+  ]
+},
+{
+  "_id": 9,
+  "title": "Lunar Viewing Evening",
+  "type": "Public Viewing",
+  "date": "2024-05-24T20:30:00Z",
+  "participants": [
+    {
+      "person_id": 8
+    }
+  ]
+},
+{
+  "_id": 10,
+  "title": "Community Space Exploration Fair",
+  "type": "Workshop",
+  "date": "2024-09-14T11:00:00Z",
+  "participants": [
+    {
+      "person_id": 9
+    }
+  ]
+}]

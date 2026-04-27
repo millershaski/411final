@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "name": "Mars",
+  "type": "Planet",
+  "notes": "Observed near opposition for surface detail imaging."
+},
+{
+  "_id": 2,
+  "name": "Betelgeuse",
+  "type": "Star",
+  "notes": "Included in variability monitoring set."
+},
+{
+  "_id": 3,
+  "name": "Andromeda Galaxy",
+  "type": "Galaxy",
+  "notes": "Used for long-exposure imaging sessions."
+},
+{
+  "_id": 4,
+  "name": "Orion Nebula",
+  "type": "Nebula",
+  "notes": "Strong emission lines make it useful for spectra."
+},
+{
+  "_id": 5,
+  "name": "Comet 12P/Pons-Brooks",
+  "type": "Comet",
+  "notes": "Tracked during active tail development."
+},
+{
+  "_id": 6,
+  "name": "Moon",
+  "type": "Natural Satellite",
+  "notes": "Used for recurring phase and shadow studies."
+},
+{
+  "_id": 7,
+  "name": "Jupiter",
+  "type": "Planet",
+  "notes": "Observed for band detail and moon transits."
+},
+{
+  "_id": 8,
+  "name": "Pleiades",
+  "type": "Open Cluster",
+  "notes": "Photometry target for brightness comparisons."
+},
+{
+  "_id": 9,
+  "name": "Vesta",
+  "type": "Asteroid",
+  "notes": "Included in positional tracking measurements."
+},
+{
+  "_id": 10,
+  "name": "Perseus Double Cluster",
+  "type": "Star Cluster",
+  "notes": "Captured for archival imaging and outreach."
+}]

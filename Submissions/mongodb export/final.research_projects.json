@@ -1,0 +1,190 @@
+[{
+  "_id": 1,
+  "title": "Exoplanet Transit Monitoring",
+  "objectives": "Detect periodic dips in brightness from selected host stars.",
+  "description": "A long-term monitoring project focused on transit timing and confirmation.",
+  "progress": 62.5,
+  "assignees": [
+    {
+      "person_id": 2
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 1,
+      "institution_id": 1,
+      "details": "Transit data comparison and shared observation windows."
+    }
+  ]
+},
+{
+  "_id": 2,
+  "title": "Variable Star Brightness Survey",
+  "objectives": "Measure seasonal magnitude changes in known variable stars.",
+  "description": "Students and staff collect repeated brightness measurements across months.",
+  "progress": 48,
+  "assignees": [
+    {
+      "person_id": 5
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 2,
+      "institution_id": 2,
+      "details": "Variable star reference calibration exchange."
+    }
+  ]
+},
+{
+  "_id": 3,
+  "title": "Nebula Spectral Mapping",
+  "objectives": "Compare emission lines across several bright nebulae.",
+  "description": "Spectral data is used to identify chemical composition differences.",
+  "progress": 55.75,
+  "assignees": [
+    {
+      "person_id": 3
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 3,
+      "institution_id": 3,
+      "details": "Joint spectral analysis review meetings."
+    }
+  ]
+},
+{
+  "_id": 4,
+  "title": "Asteroid Motion Tracking",
+  "objectives": "Estimate trajectories from repeated positional measurements.",
+  "description": "A project devoted to imaging and logging near-Earth asteroid movement.",
+  "progress": 71.2,
+  "assignees": [
+    {
+      "person_id": 6
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 4,
+      "institution_id": 4,
+      "details": "Student participation in asteroid tracking exercises."
+    }
+  ]
+},
+{
+  "_id": 5,
+  "title": "Galaxy Imaging Archive",
+  "objectives": "Build a catalog of high-resolution galaxy photographs.",
+  "description": "Creates a searchable archive of processed deep sky galaxy images.",
+  "progress": 80,
+  "assignees": [
+    {
+      "person_id": 4
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 5,
+      "institution_id": 5,
+      "details": "Archive hosting and public image gallery support."
+    }
+  ]
+},
+{
+  "_id": 6,
+  "title": "Lunar Surface Change Study",
+  "objectives": "Document visible lighting and shadow changes on the moon.",
+  "description": "Observation sessions track recurring features over multiple lunar phases.",
+  "progress": 34.6,
+  "assignees": [
+    {
+      "person_id": 1
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 6,
+      "institution_id": 6,
+      "details": "Shared lunar feature observation guides."
+    }
+  ]
+},
+{
+  "_id": 7,
+  "title": "Comet Tail Evolution",
+  "objectives": "Observe structural changes in comet tails over time.",
+  "description": "Combines imaging and observational notes during active comet periods.",
+  "progress": 29.4,
+  "assignees": [
+    {
+      "person_id": 9
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 7,
+      "institution_id": 7,
+      "details": "Comet outreach exhibit and imaging coordination."
+    }
+  ]
+},
+{
+  "_id": 8,
+  "title": "Meteor Shower Rate Analysis",
+  "objectives": "Estimate hourly meteor rates during major shower peaks.",
+  "description": "Public and internal observations contribute counts and weather context.",
+  "progress": 43.1,
+  "assignees": [
+    {
+      "person_id": 7
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 8,
+      "institution_id": 8,
+      "details": "Meteor count comparison across observation sites."
+    }
+  ]
+},
+{
+  "_id": 9,
+  "title": "Solar Spot Activity Review",
+  "objectives": "Track sunspot counts and imaging summaries.",
+  "description": "Solar observations are compiled into a quarterly activity report.",
+  "progress": 67.85,
+  "assignees": [
+    {
+      "person_id": 8
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 9,
+      "institution_id": 9,
+      "details": "Solar report review and instrument benchmarking."
+    }
+  ]
+},
+{
+  "_id": 10,
+  "title": "Open Cluster Photometry",
+  "objectives": "Measure star brightness distributions in open clusters.",
+  "description": "Photometry data supports educational analysis and publication practice.",
+  "progress": 51.3,
+  "assignees": [
+    {
+      "person_id": 10
+    }
+  ],
+  "collaborations": [
+    {
+      "collaboration_id": 10,
+      "institution_id": 10,
+      "details": "Cluster photometry educational collaboration."
+    }
+  ]
+}]

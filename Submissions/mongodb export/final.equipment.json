@@ -1,0 +1,310 @@
+[{
+  "_id": 1,
+  "name": "Celestron EdgeHD 11",
+  "type": "Telescope",
+  "maintenance_interval": 180,
+  "bookings": [
+    {
+      "booking_id": 1,
+      "person_id": 2,
+      "start_date": "2024-04-01T20:00:00Z",
+      "end_date": "2024-04-01T23:00:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 1,
+      "maintainer": 2,
+      "date": "2024-01-15T00:00:00Z",
+      "type": "Inspection",
+      "notes": "Primary mirror and housing inspected."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 1,
+      "user": 2,
+      "date": "2024-04-01T22:35:00Z",
+      "purpose": "Planetary imaging of Mars."
+    }
+  ]
+},
+{
+  "_id": 2,
+  "name": "SkyWatcher EQ6-R Pro",
+  "type": "Mount",
+  "maintenance_interval": 120,
+  "bookings": [
+    {
+      "booking_id": 2,
+      "person_id": 4,
+      "start_date": "2024-04-02T19:00:00Z",
+      "end_date": "2024-04-02T22:00:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 2,
+      "maintainer": 8,
+      "date": "2024-01-20T00:00:00Z",
+      "type": "Calibration",
+      "notes": "Mount tracking error recalibrated."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 2,
+      "user": 4,
+      "date": "2024-04-02T22:05:00Z",
+      "purpose": "Mounted and tracked observation rig for galaxy session."
+    }
+  ]
+},
+{
+  "_id": 3,
+  "name": "ZWO ASI2600MC Pro",
+  "type": "Camera",
+  "maintenance_interval": 90,
+  "bookings": [
+    {
+      "booking_id": 3,
+      "person_id": 3,
+      "start_date": "2024-04-03T18:30:00Z",
+      "end_date": "2024-04-03T21:30:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 3,
+      "maintainer": 8,
+      "date": "2024-02-05T00:00:00Z",
+      "type": "Inspection",
+      "notes": "Cooling system and sensor housing checked."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 3,
+      "user": 3,
+      "date": "2024-04-03T21:45:00Z",
+      "purpose": "Captured long-exposure image frames."
+    }
+  ]
+},
+{
+  "_id": 4,
+  "name": "SBIG Spectrograph Unit",
+  "type": "Sensor",
+  "maintenance_interval": 150,
+  "bookings": [
+    {
+      "booking_id": 4,
+      "person_id": 9,
+      "start_date": "2024-04-04T20:15:00Z",
+      "end_date": "2024-04-04T23:15:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 4,
+      "maintainer": 8,
+      "date": "2024-02-18T00:00:00Z",
+      "type": "Repair",
+      "notes": "Loose connector replaced on spectrograph unit."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 4,
+      "user": 9,
+      "date": "2024-04-04T22:10:00Z",
+      "purpose": "Recorded Orion Nebula spectral data."
+    }
+  ]
+},
+{
+  "_id": 5,
+  "name": "Explore Scientific 2x Barlow",
+  "type": "Lens",
+  "maintenance_interval": 365,
+  "bookings": [
+    {
+      "booking_id": 5,
+      "person_id": 5,
+      "start_date": "2024-04-05T17:00:00Z",
+      "end_date": "2024-04-05T19:00:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 5,
+      "maintainer": 8,
+      "date": "2024-03-01T00:00:00Z",
+      "type": "Inspection",
+      "notes": "Lens coatings checked for wear."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 5,
+      "user": 5,
+      "date": "2024-04-05T18:40:00Z",
+      "purpose": "Used for optics lab demonstration."
+    }
+  ]
+},
+{
+  "_id": 6,
+  "name": "Dell Precision Observatory PC",
+  "type": "Computer",
+  "maintenance_interval": 180,
+  "bookings": [
+    {
+      "booking_id": 6,
+      "person_id": 2,
+      "start_date": "2024-04-06T09:00:00Z",
+      "end_date": "2024-04-06T12:00:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 6,
+      "maintainer": 8,
+      "date": "2024-03-10T00:00:00Z",
+      "type": "Upgrade",
+      "notes": "Storage drive and RAM upgraded."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 6,
+      "user": 8,
+      "date": "2024-04-06T11:15:00Z",
+      "purpose": "Processed archived images and backups."
+    }
+  ]
+},
+{
+  "_id": 7,
+  "name": "Orion StarShoot Autoguider",
+  "type": "Camera",
+  "maintenance_interval": 120,
+  "bookings": [
+    {
+      "booking_id": 7,
+      "person_id": 6,
+      "start_date": "2024-04-07T20:00:00Z",
+      "end_date": "2024-04-07T22:30:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 7,
+      "maintainer": 8,
+      "date": "2024-03-22T00:00:00Z",
+      "type": "Calibration",
+      "notes": "Autoguider alignment recalibrated."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 7,
+      "user": 6,
+      "date": "2024-04-07T22:20:00Z",
+      "purpose": "Autoguiding for Jupiter observation."
+    }
+  ]
+},
+{
+  "_id": 8,
+  "name": "Meade LX200 10",
+  "type": "Telescope",
+  "maintenance_interval": 180,
+  "bookings": [
+    {
+      "booking_id": 8,
+      "person_id": 1,
+      "start_date": "2024-04-08T21:00:00Z",
+      "end_date": "2024-04-08T23:45:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 8,
+      "maintainer": 8,
+      "date": "2024-03-28T00:00:00Z",
+      "type": "Inspection",
+      "notes": "Optical tube and focus mechanism inspected."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 8,
+      "user": 1,
+      "date": "2024-04-08T23:10:00Z",
+      "purpose": "Backup telescope used for lunar comparison imaging."
+    }
+  ]
+},
+{
+  "_id": 9,
+  "name": "QHYCCD Monochrome Sensor",
+  "type": "Sensor",
+  "maintenance_interval": 120,
+  "bookings": [
+    {
+      "booking_id": 9,
+      "person_id": 2,
+      "start_date": "2024-04-09T19:30:00Z",
+      "end_date": "2024-04-09T22:00:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 9,
+      "maintainer": 8,
+      "date": "2024-04-02T00:00:00Z",
+      "type": "Repair",
+      "notes": "Sensor power issue corrected."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 9,
+      "user": 2,
+      "date": "2024-04-09T21:50:00Z",
+      "purpose": "Collected monochrome sensor data for asteroid tracking."
+    }
+  ]
+},
+{
+  "_id": 10,
+  "name": "Portable Outreach Refractor",
+  "type": "Telescope",
+  "maintenance_interval": 240,
+  "bookings": [
+    {
+      "booking_id": 10,
+      "person_id": 10,
+      "start_date": "2024-04-10T18:00:00Z",
+      "end_date": "2024-04-10T20:00:00Z"
+    }
+  ],
+  "maintenance_records": [
+    {
+      "record_id": 10,
+      "maintainer": 8,
+      "date": "2024-04-05T00:00:00Z",
+      "type": "Inspection",
+      "notes": "Portable refractor cleaned and packed for outreach."
+    }
+  ],
+  "usage_history": [
+    {
+      "usage_id": 10,
+      "user": 10,
+      "date": "2024-04-10T19:50:00Z",
+      "purpose": "Public outreach viewing setup."
+    }
+  ]
+}]

@@ -1,0 +1,110 @@
+[{
+  "_id": 1,
+  "title": "Transit Timing Results for Spring Survey Targets",
+  "type": "Research Paper",
+  "date": "2024-05-15T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 2
+    }
+  ]
+},
+{
+  "_id": 2,
+  "title": "Seasonal Brightness Trends in Selected Variable Stars",
+  "type": "Research Paper",
+  "date": "2024-05-22T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 5
+    }
+  ]
+},
+{
+  "_id": 3,
+  "title": "Spectral Notes from the Orion Nebula Mapping Project",
+  "type": "Report",
+  "date": "2024-05-29T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 3
+    }
+  ]
+},
+{
+  "_id": 4,
+  "title": "Asteroid Tracking Procedures and Early Findings",
+  "type": "Report",
+  "date": "2024-06-05T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 6
+    }
+  ]
+},
+{
+  "_id": 5,
+  "title": "Building a Community Galaxy Imaging Archive",
+  "type": "Report",
+  "date": "2024-06-12T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 4
+    }
+  ]
+},
+{
+  "_id": 6,
+  "title": "Lunar Illumination Comparisons Across Phases",
+  "type": "Research Paper",
+  "date": "2024-06-19T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 1
+    }
+  ]
+},
+{
+  "_id": 7,
+  "title": "Observed Tail Morphology in Comet 12P/Pons-Brooks",
+  "type": "Research Paper",
+  "date": "2024-06-26T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 9
+    }
+  ]
+},
+{
+  "_id": 8,
+  "title": "Meteor Shower Rate Estimation Methods for Public Programs",
+  "type": "Report",
+  "date": "2024-07-03T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 7
+    }
+  ]
+},
+{
+  "_id": 9,
+  "title": "Quarterly Solar Spot Activity Review",
+  "type": "Report",
+  "date": "2024-07-10T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 8
+    }
+  ]
+},
+{
+  "_id": 10,
+  "title": "Teaching Photometry with Open Cluster Data",
+  "type": "Research Paper",
+  "date": "2024-07-17T00:00:00Z",
+  "authors": [
+    {
+      "author_id": 10
+    }
+  ]
+}]
