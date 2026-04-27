@@ -1,18 +1,29 @@
-This is the a database design for the fictional organization, "StellarView Astronomy Research Center".
+# StellarView Astronomy Research Center Database Design
 
-Submissions:
+This repository contains the database design for the fictional organization **StellarView Astronomy Research Center**.
 
-SQL Schema: Submissions/SQL Final Schema.pdf
-ER Diagrams: Submissions/ER Diagram Submission.pdf
+## Submissions
 
-SQL Tables: Submissions/tables.sql
-SQL Data: Submissions/data.sql
-SQL Queries: Submissions/data_analysis.sql
+### Design Documents
 
-MongoDB Exports: Submissions/mongodb export/
-MongoDB Queries: Submissions/data_analytics_mongodb.txt
+- [SQL Schema](Submissions/SQL%20Final%20Schema.pdf)
+- [ER Diagrams](Submissions/ER%20Diagram%20Submission.pdf)
 
-Slides: Submissions/Millershaski Presentation.pdf
+### SQL Files
 
-Application Source Code: Submissions/ApplicationLayer.java
+- [SQL Tables](Submissions/tables.sql)
+- [SQL Data](Submissions/data.sql)
+- [SQL Queries](Submissions/data_analysis.sql)
 
+### MongoDB Files
+
+- [MongoDB Exports](Submissions/mongodb%20export/)
+- [MongoDB Queries](Submissions/data_analytics_mongodb.txt)
+
+### Presentation
+
+- [Slides](Submissions/Millershaski%20Presentation.pdf)
+
+### Application
+
+- [Application Source Code](Submissions/ApplicationLayer.java)
